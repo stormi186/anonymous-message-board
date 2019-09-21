@@ -19,7 +19,8 @@
     "mocha": "^6.2.0",
     "mongodb": "^2.2.16",
     "zombie": "^6.1.4",
-    "dotenv": "^8.1.0"
+    "dotenv": "^8.1.0",
+    "mongoose": "^5.5.12"
   },
   "engines": {
     "node": "10.15.0"
